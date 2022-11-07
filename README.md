@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ece Özaydın</h1>
 <h3 align="center">I m computer engineering student at MEF University</h3>
 
-- 🔭 I’m currently working on **25 Project Technology** as a working student
-
 - 🌱 I’m currently learning **Spring**
 
 - 📝 I regularly write articles on [https://medium.com/@ozaydine](https://medium.com/@ozaydine)
