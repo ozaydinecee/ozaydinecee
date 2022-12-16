@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ozaydine](https://medium.com/@ozaydine)
 
-- 💬 Ask me about **Java, Python,**
+- 💬 Ask me about **Java, Python,PHP**
 
 - 📫 How to reach me **ozaydinecee@gmail.com**
 
