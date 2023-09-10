@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ece Özaydın</h1>
-<h3 align="center">I m computer engineering student at MEF University</h3>
-
-- 🌱 I’m currently learning **Spring**
+<h3 align="center">I graduated from MEF Unıversity from  computer engineering .</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@ozaydine](https://medium.com/@ozaydine)
 
-- 💬 Ask me about **Java, Python,PHP**
+- 💬 Ask me about **Java, Spring, Python,PHP**
 
 - 📫 How to reach me **ozaydinecee@gmail.com**
 
